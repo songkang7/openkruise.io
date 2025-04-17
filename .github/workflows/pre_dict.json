@@ -910,5 +910,18 @@
     "ud-demo",
     "validatingwebhookconfiguration",
     "volumeClaimUpdateStrategy",
-    "ws-tfjob-demo"
+    "ws-tfjob-demo",
+    "enqueues",
+    "grep",
+    "int",
+    "judgement",
+    "mgr",
+    "node-xxx",
+    "obj",
+    "pkg",
+    "rm",
+    "ts",
+    "workload-xxx",
+    "xxx",
+    "xxx-specific-label"
 ]
